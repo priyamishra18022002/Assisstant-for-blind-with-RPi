@@ -1,1 +1,1 @@
-# instructables-voice-navigation-Raspberry-pi
+# Assisstant for blind using raspberry code
