@@ -1,1 +1,1 @@
-# Assisstant for blind using raspberry code
+# Assisstant for blind using raspberry pi
